@@ -134,16 +134,16 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3572A5; 
-  width: 54.671%;
+  width: 54.666%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 28.000%;
+  width: 27.997%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
   width: 5.309%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 4.961%;
+  width: 4.978%;
 " class="progress-item"></span><span style="
   background-color: #0096D8; 
   width: 1.526%;
@@ -155,7 +155,7 @@ div.ellipsis {
   width: 0.992%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 0.669%;
+  width: 0.668%;
 " class="progress-item"></span><span style="
   background-color: #427819; 
   width: 0.614%;
@@ -178,11 +178,11 @@ div.ellipsis {
   background-color: #844FBA; 
   width: 0.098%;
 " class="progress-item"></span><span style="
-  background-color: #0064bd; 
-  width: 0.094%;
-" class="progress-item"></span><span style="
   background-color: #00ADD8; 
   width: 0.088%;
+" class="progress-item"></span><span style="
+  background-color: #0064bd; 
+  width: 0.086%;
 " class="progress-item"></span><span style="
   background-color: #ef7a08; 
   width: 0.052%;
@@ -263,7 +263,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Shell</span>
-  <span class="percent">4.96%</span>
+  <span class="percent">4.98%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
@@ -445,22 +445,6 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #0064bd;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">Jsonnet</span>
-  <span class="percent">0.09%</span>
-</li>
-<li style="animation-delay: 2550ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
       style="fill: #00ADD8;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -471,6 +455,22 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Go</span>
+  <span class="percent">0.09%</span>
+</li>
+<li style="animation-delay: 2550ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #0064bd;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">Jsonnet</span>
   <span class="percent">0.09%</span>
 </li>
 <li style="animation-delay: 2700ms;">
